@@ -1,19 +1,19 @@
 ---
-title: "About"
+title: "Duc Tung VU"
 image: profile.jpg
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
+    - icon: mailbox
+      text: Mail
+      href: mailto:ductungvu0711@gmail.com
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/d-tvu
 
 ---
 
-About this blog
+Welcome to my personnal blog
