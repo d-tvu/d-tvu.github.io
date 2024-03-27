@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "siteweb"
+  title: "Le site de Duc Tung VU"
   navbar:
     right:
       - about.qmd

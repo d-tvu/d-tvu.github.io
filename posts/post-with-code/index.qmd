@@ -1,8 +1,8 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
+title: "My CV"
+author: "Duc Tung VU"
 date: "2024-03-27"
-categories: [news, code, analysis]
+categories: [Info]
 image: "image.jpg"
 ---
 
