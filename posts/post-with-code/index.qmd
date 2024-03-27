@@ -3,7 +3,83 @@ title: "My CV"
 author: "Duc Tung VU"
 date: "2024-03-27"
 categories: [Info]
-image: "image.jpg"
+about: 
+    template: trestles
+    links:
+        - icon: linkedin
+          text: LinkedIn
+          url: https://www.linkedin.com/in/chrisvoncsefalvay/
+        - icon: github
+          text: Github
+          url: https://github.com/chrisvoncsefalvay
+        - icon: mailbox
+          text: "Email"
+          url: mailto:ductungvu0711@gmail.com
+        - text: "{{< ai orcid >}} ORCID 0000-0003-3131-0864"
+          url: https://orcid.org/0000-0003-3131-0864
+        - text: "{{< ai google-scholar >}} Google Scholar"
+          url: https://scholar.google.com/citations?user=X_2G-VsAAAAJ
+
+page-layout: full
+image: "photo.jpg"
+comments: false
 ---
 
-This is a post with executable code.
+Get to know more about me.
+
+
+# Bio
+I am a 1st year PhD student from the Lyon Institute of Nanotechnology(INL). My thesis is about the characterization and modeling of the drift of noise in Single Photon Avalanche Diode(SPAD). 
+
+# Education
+**2023-2026** : Ph.D in Microelectronics at INSA Lyon
+
+Thesis : Origin and drift of noise in single photon avalanche diode
+
+*Key words : SPAD, Characterization, Noise ageing, Semiconductors devices*
+
+**2018-2023** : Engineer diploma from INSA Lyon 
+
+*Electrical engineer specialized in Integrated Electronics Systems*
+
+**2018** : Baccalaureate with Honors from Hanoi Amsterdam High school, Hanoi, Vietnam
+
+# Experience
+**2023-2026** : Ph.D candidate
+
+- Simulation of the behavior of the SPAD via Sentaurus TCAD
+- Characterization and Analisis of the SPAD before and after apply stress
+
+**Feb 2023 - Jul 2023** : Embedded systems intern at Cardiags
+
+Design of a microprogrammed device for physiological data acquisition
+
+*Key words : MSP programming, C++, Bluetooth Low Energy*
+
+**Feb 2022 - Jul 2022** : R&D Engineer Junior at LGEF
+
+Design and characterization of piezoelectrics sensors applied in aeronautics
+
+*Key words : Signal processing, Sensors design, Wireless connection*
+
+# Skills
+1. IT 
+- MS Offices(Excel, PPT, Word)
+- Programming : Python, JAVA, C++, HTML, CSS, R, VHDL
+- Simulation : Matlab, Simulink, MPLab
+
+2. Electronics
+- CAO : Altium, Cadence
+- Simulation : Sentaurus Synopsys
+
+# Languages 
+
+|           |Reading|Writing|Listening|Speaking|
+|:----------|-------|-------|---------|:-------|
+|**English**|C1     |C1     |C1       |B2      |
+|**French** |C1     |C1     |C1       |C1      |
+|**Spanish**|A1     |A1     |A1       |A1      |
+
+
+# Area of interest
+# Key research interests
